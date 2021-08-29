@@ -2,7 +2,7 @@
 **andrealimongelli/andrealimongelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ### Hi there 👋, I'm Andrea!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋, I'm Andrea!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Andrea!)](https://git.io/typing-svg)
 - 📫 How to reach me:
  - andrea.limongelli@gmail.com
  - www.linkedin.com/in/limongelliandrea/
