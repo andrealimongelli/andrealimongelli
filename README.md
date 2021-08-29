@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Andrea!
 - 📫 How to reach me:
-- andrea.limongelli@gmail.com
+  - andrea.limongelli@gmail.com
+  - www.linkedin.com/in/limongelliandrea/
 
 <!--
 **andrealimongelli/andrealimongelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
