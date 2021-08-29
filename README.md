@@ -1,8 +1,3 @@
-### Hi there 👋, I'm Andrea!
-- 📫 How to reach me:
-  - andrea.limongelli@gmail.com
-  - www.linkedin.com/in/limongelliandrea/
-
 <!--
 **andrealimongelli/andrealimongelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Andrea!
+- 📫 How to reach me:
+ - andrea.limongelli@gmail.com
+ - www.linkedin.com/in/limongelliandrea/
+
+  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealimongelli)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andrealimongelli&show_icons=true)
